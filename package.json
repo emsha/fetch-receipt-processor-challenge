@@ -1,0 +1,21 @@
+{
+  "name": "Receipt Processor",
+  "version": "1.0.0",
+  "description": "A simple receipt processor",
+  "sub-title": "My solution to this assessment",
+  "author": "Max Shashoua",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.9",
+    "supertest": "^7.1.0"
+  }
+}
