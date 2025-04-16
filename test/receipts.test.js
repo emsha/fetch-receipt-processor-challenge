@@ -3,7 +3,6 @@ const app = require('../src/app');
 const morningReceipt = require('../receipts/morning-receipt')
 const simpleReceipt = require('../receipts/simple-receipt')
 const noRetailerReceipt = require('../receipts/no-retailer-receipt')
-const unknownIdReceipt = require('../receipts/unknown-id-receipt')
 const targetReceipt = require('../receipts/target-receipt')
 const cornerMarketReceipt = require('../receipts/corner-market-receipt')
 
